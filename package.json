@@ -26,5 +26,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/johnhenry/browsermesh-netway"
+  },
+  "engines": {
+    "node": ">=24.0.0"
   }
 }
