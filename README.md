@@ -1,5 +1,11 @@
 # browsermesh-netway
 
+> **This repo has moved.** `browsermesh-netway` is now published as
+> [`@johnhenry/browsermesh-netway`](https://www.npmjs.com/package/@johnhenry/browsermesh-netway) from the
+> [johnhenry/browsermesh](https://github.com/johnhenry/browsermesh) monorepo.
+> This repo is archived; install the new package instead.
+
+
 Virtual networking layer with BSD-socket-like abstractions for browser environments. Provides TCP-like streams, UDP-like datagrams, DNS resolution, and capability-based policy enforcement -- all running in-memory or proxied through a remote gateway server.
 
 ## Install
